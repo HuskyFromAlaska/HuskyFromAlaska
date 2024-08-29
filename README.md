@@ -26,6 +26,7 @@ Hey everyone, my name is Leonid, and I'm a backend developer. I used to work as 
    <img align="left" alt=".net" width="35px" style="padding-right:10"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
    <img align="left" alt=".net" width="35px" style="padding-right:10"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 </p>
+<br />
 
 
 #
