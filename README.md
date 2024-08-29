@@ -6,7 +6,9 @@
 ### About me
 Hey everyone, my name is Leonid, and I'm a backend developer. I used to work as a network engineer and security systems analyst, but now I'm focused on software development and learning new, exciting technologies.
 
-
+<p align="left">
+    <a href="www.linkedin.com"></a>
+</p>
 ---
 
 ### 🧰 Languages and Tools
