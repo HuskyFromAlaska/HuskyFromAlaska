@@ -1,4 +1,4 @@
-# Husky From Alaska
+# 🎮 Husky From Alaska
 
 **`Modern Backend developer`**
 
