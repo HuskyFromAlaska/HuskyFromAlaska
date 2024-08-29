@@ -12,6 +12,7 @@ Hey everyone, my name is Leonid, and I'm a backend developer. I used to work as 
    <img title "espnakamura@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-espnakamura@gmail.com-a18dda?style=for-the-badge&logo=mention&logoColor=white">
    
 </p>
+
 ---
 
 ### 🧰 Languages and Tools
