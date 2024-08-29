@@ -4,7 +4,7 @@
 
 
 ### About me
-Hey everyone, my name is Leonid, and I'm a backend developer. I used to work as a network engineer and security systems analyst, but now I'm focused on software development and learning new, exciting technologies.
+Hey everyone! I’m Leonid, a backend developer with a background in network engineering and security systems analysis. Right now, I'm all about diving into software development and exploring new, exciting technologies. I actively attend IT conferences and events to continually level up my skills and stay on the cutting edge.
 
 <p align="left">
    <img alt="" title="Connect LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Moscow-Russia-purple?style=for-the-badge&logo=location&logoColor=white"/>
