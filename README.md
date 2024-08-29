@@ -15,5 +15,7 @@ Hi 👋, I'm Leonid
 <img align="left" alt=".net" width="35px" style="padding-right:10"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
 <img align="left" alt=".net" width="35px" style="padding-right:10"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="left" alt=".net" width="35px" style="padding-right:10"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+
+#
           
           
