@@ -7,7 +7,9 @@
 Hey everyone, my name is Leonid, and I'm a backend developer. I used to work as a network engineer and security systems analyst, but now I'm focused on software development and learning new, exciting technologies.
 
 <p align="left">
-   <img alt="" title="Connect LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Moscow-Russia-purple?style=for-the-badge&logo=location&logoColor=white"/></a>
+   <img alt="" title="Connect LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Moscow-Russia-purple?style=for-the-badge&logo=location&logoColor=white"/>
+   <a><img alt="" title="Connect LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/></a>
+   
 </p>
 ---
 
