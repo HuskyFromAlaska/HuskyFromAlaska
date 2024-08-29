@@ -10,7 +10,7 @@ Hey everyone! I’m Leonid, a backend developer with a background in network eng
    <img alt="" title="Connect LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Moscow-Russia-purple?style=for-the-badge&logo=location&logoColor=white"/>
    <a href="www.linkedin.com/in/HuskyFromAlaska"><img title="Connect LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-8182DA?style=for-the-badge&logo=comment-discussion&logoColor=black"/></a>
    <img title "email" src="https://custom-icon-badges.demolab.com/badge/-espnakamura@gmail.com-a18dda?style=for-the-badge&logo=mention&logoColor=white">
-   <img title "telegram" src="https://custom-icon-badges.demolab.com/badge/-huskyfromalaska-d3a3da?style=for-the-badge&logo=telegram&logoColor=white&color="white">
+   <img title "telegram" src="https://custom-icon-badges.demolab.com/badge/-huskyfromalaska-?style=for-the-badge&logo=telegram&logoColor=white&color="white">
    
 </p>
 
