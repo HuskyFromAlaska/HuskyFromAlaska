@@ -1,4 +1,6 @@
-# 🎮 Husky From Alaska # **`Modern Backend developer`**
+# 🎮 Husky From Alaska
+
+**`Modern Backend developer`**
 
 
 ### About me
