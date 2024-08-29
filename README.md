@@ -3,7 +3,7 @@
 **`Modern Backend developer`**
 
 ### About me
-Hey everyone, my name is Leonid, and I'm a backend developer. I used to work as a network engineer and security systems analyst, but now I'm focused on software development and learning new, exciting technologies.
+|Hey everyone, my name is Leonid, and I'm a backend developer. I used to work as a network engineer and security systems analyst, but now I'm focused on software development and learning new, exciting technologies.|
 
 
 ---
@@ -18,6 +18,6 @@ Hey everyone, my name is Leonid, and I'm a backend developer. I used to work as 
 <img align="left" alt=".net" width="35px" style="padding-right:10"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="left" alt=".net" width="35px" style="padding-right:10"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
 
-#
+
           
           
