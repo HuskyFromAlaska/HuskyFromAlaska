@@ -2,10 +2,7 @@
 
 **`Modern Backend developer`**
 
-Hey wassup everyone. I'm Leonid from Russia and i'm an backend developer.
-I'm still learning as a programmer, working on improving my coding skills 
-and exploring new technologies. Sometimes I try to come up with new projects 
-from scratch.
+Hey everyone, my name is Leonid, and I'm a backend developer. I used to work as a network engineer and security systems analyst, but now I'm focused on software development and learning new, exciting technologies.
 
 ---
 
