@@ -8,7 +8,7 @@ Hey everyone, my name is Leonid, and I'm a backend developer. I used to work as 
 
 <p align="left">
    <img alt="" title="Connect LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Moscow-Russia-purple?style=for-the-badge&logo=location&logoColor=white"/>
-   <a href="www.linkedin.com/in/HuskyFromAlaska"><img title="Connect LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/></a>
+   <a href="www.linkedin.com/in/HuskyFromAlaska"><img title="Connect LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-8182DA?style=for-the-badge&logo=comment-discussion&logoColor=black"/></a>
    
 </p>
 ---
