@@ -8,5 +8,6 @@ Hi 👋, I'm Leonid
 
 ### Languages and Tools:
 
-<img align="left" alt=".net" width="30px" style="padding-right:10"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt=".net" width="30px" style="padding-right:10"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+<img align="left" alt=".net" width="35px" style="padding-right:10"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt=".net" width="35px" style="padding-right:10"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+          
