@@ -1,10 +1,12 @@
-Hi 👋, I'm Leonid
+# Husky From Alaska
 
-<h3 align="center">I'm a .NET backend developer from Russia</h3>
+**`Modern Backend developer`**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Hey wassup everyone. I'm Leonid from Russia and i'm an backend developer.
+I'm still learning as a programmer, working on improving my coding skills 
+and exploring new technologies. Sometimes I try to come up with new projects 
+from scratch.
+
 
 ### Languages and Tools:
 
