@@ -7,8 +7,9 @@ I'm still learning as a programmer, working on improving my coding skills
 and exploring new technologies. Sometimes I try to come up with new projects 
 from scratch.
 
+---
 
-### Languages and Tools:
+### 🧰 Languages and Tools
 
 <img align="left" alt=".net" width="35px" style="padding-right:10"           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="csharp" width="35px" style="padding-right:10"         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
